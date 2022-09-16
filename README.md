@@ -16,15 +16,15 @@
 6. Breakdown of customers by gender
 7. Breakdown of customers by user type
 
-<img src="https://github.com/eoweed/bikesharing/blob/master/images/all_users.png" width=50% height=50%>
+<img src="https://github.com/eoweed/bikesharing/blob/master/images/all_users.png" width=100% height=100%>
 
 ##### By looking at the length of bike checkout times and the frequency of trips per weekday and hour, it seems that the most common trip length is about 5 minutes long, and the most popular times to use the bikes are weekdays from 7am-10am and 5pm-8pm. Weekends also have moderate use throughout most of the day between 10am-8pm. 
 
-<img src="https://github.com/eoweed/bikesharing/blob/master/images/by_gender.png" width=50% height=50%>
+<img src="https://github.com/eoweed/bikesharing/blob/master/images/by_gender.png" width=100% height=100%>
 
 ##### The above information has also been further broken down by gender and shows that males most often have a trip length of about 5 minutes, females have a trip length of 6 minutes, and unknown gender at about 11 minutes. The chart showing trips per weekday and hour by gender also show the most popular times to use the bikes are similar across all genders, and that males are the most common users. 
 
-<img src="https://github.com/eoweed/bikesharing/blob/master/images/by_gender_usertype.png" width=50% height=50%>
+<img src="https://github.com/eoweed/bikesharing/blob/master/images/by_gender_usertype.png" width=100% height=100%>
 
 ##### The graph displaying the frequency of trips by weekday for each gender and user type shows that the most common users are males that subscribe to the bike-sharing service. This can also be easily visualized in the pie charts that breakdown the number of bike trips per gender and per user type.
 
